@@ -1,3 +1,3 @@
-FROM jfu888/xjsa
+FROM jfu888/dxr
 
 USER 10088
