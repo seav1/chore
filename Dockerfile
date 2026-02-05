@@ -1,3 +1,3 @@
-FROM jfu888/dxr
+FROM ghcr.io/alphaxcv/nzonesb:main
 
 USER 10088
